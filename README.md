@@ -1,4 +1,4 @@
 # hello-world
 # Hindi: Namaste, Duniya! 
 # Spanish: Hola, Mundo! 
-# Marathi: Namaskar, Jugg! 
+# Marathi: Namaskar, Vishwa! 
